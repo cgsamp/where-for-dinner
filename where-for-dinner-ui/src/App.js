@@ -37,7 +37,7 @@ function App() {
       <div align="left"  className="App">
             <div className="bannerHeader"> 
               <div className="bannerCenter">
-              <label className="bannerLabel">Where For Dinner Dining Availability Search</label>
+              <label className="bannerLabel">Where For Dinner Dining Search</label>
               </div>      	
             </div>
             <div className="container welcomeContent">
