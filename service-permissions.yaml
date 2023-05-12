@@ -1,0 +1,1 @@
+kubectl create clusterrolebinding admin-me --clusterrole=cluster-admin --user=csamp@vmware.com
