@@ -30,4 +30,4 @@ spec:
   owner: where-for-dinner-team
   system: where-for-dinner
   definition:
-    $text: https://where-for-dinner.developer.tap.gcp.csamp-tanzu.com/api/search/v3/api-docs/
+    $text: http://where-for-dinner.developer.tap.gcp.csamp-tanzu.com/api/search/v3/api-docs/
